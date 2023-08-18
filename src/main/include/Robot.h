@@ -16,7 +16,7 @@
 #include <frc/Joystick.h>
 #include <frc/GenericHID.h>
 #include <frc/XboxController.h>
-#include <frc/SpeedControllerGroup.h>
+#include <frc/motorcontrol/MotorControllerGroup.h>
 #include <frc/drive/DifferentialDrive.h>
 #include <frc/drive/MecanumDrive.h>
 #include <frc/DigitalInput.h>
